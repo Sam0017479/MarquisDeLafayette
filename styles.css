@@ -146,3 +146,43 @@ section {
 .battles img {
     width: 850px;
 }
+
+.afterwar {
+
+}
+
+.afterwar > * {
+    padding: 30px;
+}
+
+.afterwar .textblock > * {
+    font-size: 35px;
+}
+
+.afterwar .textblock h3 {
+    font-weight: 400;
+}
+
+.afterwar img {
+    width: 850px;
+}
+
+.death {
+
+}
+
+.death > * {
+    padding: 30px;
+}
+
+.death .textblock > * {
+    font-size: 35px;
+}
+
+.death .textblock h3 {
+    font-weight: 400;
+}
+
+.death img {
+    width: 500px;
+}
