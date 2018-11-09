@@ -1,6 +1,7 @@
 * {
     margin: 0;
     font-family: Segoe UI;
+    cursor: url("Images/cursor.cur"), auto;
 }
 
 html, body {
@@ -31,7 +32,7 @@ section {
 }
 
 .main .centered > * {
-    padding: 0 50px;
+    padding: 0 75px;
 }
 
 .main .centered .textblock {
@@ -75,6 +76,7 @@ section {
 
 .intro .textblock h2 {
     font-size: 30px;
+    font-weight: 400;
 }
 
 .intro img {
@@ -93,10 +95,54 @@ section {
 
 }
 
-.inspiration .textblock h3 {
+.inspiration .textblock > * {
     font-size: 35px;
+}
+
+.inspiration .textblock h3 {
+    font-weight: 400;
 }
 
 .inspiration img {
     width: 600px;
+}
+
+.firstbattle {
+
+}
+
+.firstbattle > * {
+    padding: 60px;
+}
+
+.firstbattle .textblock > * {
+    font-size: 35px;
+}
+
+.firstbattle .textblock h3 {
+    font-weight: 400;
+}
+
+.firstbattle img {
+    width: 700px;
+}
+
+.battles {
+
+}
+
+.battles > * {
+    padding: 60px;
+}
+
+.battles .textblock > * {
+    font-size: 35px;
+}
+
+.battles .textblock h3 {
+    font-weight: 400;
+}
+
+.battles img {
+    width: 850px;
 }
